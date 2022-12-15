@@ -1,0 +1,16 @@
+header{
+    background-color: black;
+}
+
+nav li{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: solid;
+    font-size:  30px;
+    padding: 150px;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
